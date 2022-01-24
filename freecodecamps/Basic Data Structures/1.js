@@ -1,0 +1,1 @@
+let yourArray = [1, 'freecode', true, false, 'map', 2]; // Change this line
